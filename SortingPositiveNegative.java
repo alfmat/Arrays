@@ -1,6 +1,5 @@
 /**
  Name: Alfred Mathew
- School: East Chapel Hill High School
  Platform: macOS High Sierra, BlueJ
  Date: 02/11/18
  Program: SortingPositiveNegative
